@@ -1,0 +1,29 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+*{   
+ text-align:center;
+}
+/*    *---> this will align all the thing in the body in the center    */
+p{
+  font-size: 20px;
+  color:red;
+}
+#id-selector-demo{
+  color:green;
+}
+li[value = "2"]{
+  font-size: 20px;
+}
+
+li[value = "4"]{
+  color:blue;
+}
+li[value = "5"]{
+  text-align: center;
+}
+
